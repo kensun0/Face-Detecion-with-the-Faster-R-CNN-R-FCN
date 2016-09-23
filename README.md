@@ -22,3 +22,10 @@ If you find R-FCN useful in your research, please consider citing:
         Year = {2016}
     }
 
+#### Some modification
+
+1. Add lib/st_face.py for reading WIDER dataset, modified factory.py.
+2. Add tools/demo4fddb.py for testing the model with FDDB dataset.
+3. Modify tools/train_net.py. Set '--imdb'  default='st_face'.
+4. Add prototxt to model
+
