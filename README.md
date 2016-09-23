@@ -35,4 +35,11 @@ As the same as Faster-R-CNN and R-FCN
 
 #### Result on FDDB
 
-<img src="discROC.png" width="800">
+<img src="discROC.png" width="600">
+
+#### Some "Mistake"
+
+<img src="2.jpg" width="600">
+<img src="discROC.png" width="600">
+<img src="discROC.png" width="600">
+<img src="discROC.png" width="600">
