@@ -37,9 +37,7 @@ As the same as Faster-R-CNN and R-FCN
 
 <img src="discROC.png" width="600">
 
-#### Some "Mistake"
+#### Some "Mistakes"
 
-<img src="2.jpg" width="500">
-<img src="601.jpg" width="500">
-<img src="1843.jpg" width="500">
-<img src="1062.jpg" width="500">
+<img src="2.jpg" width="200"><img src="601.jpg" width="200">
+<img src="1843.jpg" width="200"><img src="1062.jpg" width="200">
