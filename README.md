@@ -34,3 +34,5 @@ If you find R-FCN useful in your research, please consider citing:
 As the same as Faster-R-CNN and R-FCN
 
 #### Result on FDDB
+
+<img src="discROC-compare.png" width="500">
