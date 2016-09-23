@@ -41,5 +41,7 @@ As the same as Faster-R-CNN and R-FCN
 
 red is ground-truth
 
-<img src="2.jpg" width="300"><img src="601.jpg" width="300">
-<img src="1843.jpg" width="300"><img src="1062.jpg" width="300">
+<img src="601.jpg" width="300">
+<img src="1843.jpg" width="300">
+<img src="1062.jpg" width="500">
+<img src="2.jpg" width="500">
