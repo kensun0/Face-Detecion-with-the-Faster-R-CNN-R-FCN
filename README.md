@@ -1,5 +1,5 @@
 # Face-Detecion-with-the-Faster-R-CNN  or  R-FCN
-The Faster-R-CNN code (written in Python) is available https://github.com/Orpine/py-R-FCN
+The Faster-R-CNN code (written in Python) is available https://github.com/rbgirshick/py-faster-rcnn
 
 If you find Faster R-CNN useful in your research, please consider citing:
 
@@ -11,7 +11,7 @@ If you find Faster R-CNN useful in your research, please consider citing:
         Year = {2015}
     }
     
-The R-FCN code (written in Python) is available https://github.com/rbgirshick/py-faster-rcnn
+The R-FCN code (written in Python) is available https://github.com/Orpine/py-R-FCN
 
 If you find R-FCN useful in your research, please consider citing:
 
