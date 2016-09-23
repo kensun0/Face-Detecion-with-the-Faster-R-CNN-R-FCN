@@ -29,3 +29,8 @@ If you find R-FCN useful in your research, please consider citing:
 3. Modify tools/train_net.py. Set '--imdb'  default='st_face'.
 4. Add prototxt to model
 
+#### Installation
+
+As the same as Faster-R-CNN and R-FCN
+
+#### Result on FDDB
