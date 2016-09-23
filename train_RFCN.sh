@@ -1,0 +1,1 @@
+python  ./tools/train_net.py --gpu 1 --solver models/pascal_voc/ResNet-50/rfcn_end2end/solver_ohem.prototxt --weights output/rfcn_end2end_ohem/st_face/resnet50_rfcn_ohem_iter_40000.caffemodel --imdb st_face --iters 500000 --cfg experiments/cfgs/rfcn_end2end_ohem.yml 

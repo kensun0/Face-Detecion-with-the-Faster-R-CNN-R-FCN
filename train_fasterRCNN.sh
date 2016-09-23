@@ -1,0 +1,1 @@
+python  ./tools/train_net.py --gpu 1 --solver models/pascal_voc/VGG16/faster_rcnn_end2end/solver.prototxt --weights vgg16_faster_rcnn_final.caffemodel --imdb st_face --iters 200000 --cfg experiments/cfgs/faster_rcnn_end2end.yml
