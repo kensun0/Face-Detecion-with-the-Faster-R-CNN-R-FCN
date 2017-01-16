@@ -33,6 +33,11 @@ If you find R-FCN useful in your research, please consider citing:
 
 As the same as Faster-R-CNN and R-FCN
 
+#### Trained models
+
+exmaple models
+http://pan.baidu.com/s/1kVI3IQj
+
 #### Result on FDDB
 
 <img src="discROC.png" width="600">
